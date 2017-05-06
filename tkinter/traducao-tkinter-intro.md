@@ -37,8 +37,7 @@ app.mainloop()                                          #10
 8. O programa principal inicia aqui, instanciando a classe *Application* com o objeto *app*.
 9. Esta chamada de método vai definir o titulo da janela como *“Sample application”*.
 10. Inicia o loop principal da aplicação, aguardando eventos de mouse ou teclado.
-<br/>
-<br/>
+
 # 3 - Links Úteis
 
 **Fonte:** http://infohost.nmt.edu/tcc/help/pubs/tkinter/web/minimal-app.html<br/>
